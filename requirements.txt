@@ -1,0 +1,6 @@
+langchain[all]
+sentence-transformers
+streamlit
+chromadb
+pypdf
+python-dotenv
